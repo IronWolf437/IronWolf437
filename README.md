@@ -1,3 +1,5 @@
+![alt text](<Screenshot 2024-11-10 210240.png>)
+
 <h1 align="center" style="color: #C792EA; font-size: 3em; font-family: 'Teko', monospace;">
   <b>Hi👋, I'm Iron Wolf</b>
 </h1>
@@ -10,17 +12,18 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there%2C+Welcome+to+My+Profile!" alt="Typing SVG" />
 </div>
 
-<p align="center">
-  <img src="fire.gif" alt="Animation" width="40%" style="border-radius: 8px; float: right; margin-left: 20px;">
-  
-  I am passionate about hardware and software development, and have hands-on experience in Arduino, Python, and web development (HTML and CSS) yet I am still a beginner. I have worked on several projects including the Iron Man portfolio site, an Ohm color code calculator app, and small Python projects. I have also explored AI and machine learning through projects such as face recognition and deep learning models on Kaggle.
+<img align="right" alt="coding" width="400" src="fire.gif">
 
+<p>
+  I am passionate about hardware and software development, and have hands-on experience in Arduino, Python, and web development (HTML and CSS) yet I am still a beginner. I have worked on several projects including the Iron Man portfolio site, an Ohm color code calculator app, and small Python projects. I have also explored AI and machine learning through projects such as face recognition and deep learning models on Kaggle.
+</p>
+<p>
   I’m constantly learning and excited to share my experiences. Feel free to explore my repositories or reach out if you'd like to collaborate!
 </p>
 
-<h3 style="color: #FFEB95; font-size: 2rem; ">
+<h2 style="color: #FFEB95; font-size: 2rem; ">
   Connect with me:
-</h3>
+</h2>
 <div align="center" style="display: flex; justify-content: center; gap: 15px; padding-bottom: 20px;">
   <a href='mailto:woiron437@gmail.com'>
     <img src="icon/gmail.png" alt="Gmail" width="50" height="40">
@@ -44,9 +47,9 @@
 
 ---
 
-<h3 style="color: #FFEB95; font-size: 2rem; ">
+<h2 style="color: #FFEB95; font-size: 2rem; ">
   🌱 I'm currently learning:
-</h3>
+</h2>
 <ul style="font-family: 'Verdana', sans-serif; font-size: 1.2rem; color: #fff; margin-left: 20px;">
   <li>Working on small Python projects</li>
   <li>Learning the Flet library for developing graphical interfaces</li>
@@ -55,9 +58,9 @@
   <li>Small AI projects</li>
 </ul>
 
-<h3 style="color: #FFEB95; font-size: 2rem; ">
+<h2 style="color: #FFEB95; font-size: 2rem; ">
   🔭 I'm planning:
-</h3>
+</h2>
 <ul style="font-family: 'Verdana', sans-serif; font-size: 1.2rem; color: #fff; margin-left: 20px;">
   <li>YouTube channel for explaining different hacks and sharing my learning journey</li>
   <li>Experience working on Raspberry Pi</li>
@@ -66,9 +69,9 @@
 
 ---
 
-<h3 style="color: #FFEB95; font-size: 2rem; ">
+<h2 style="color: #FFEB95; font-size: 2rem; ">
   Languages & Tools:
-</h3>
+</h2>
 <div align="left" style="display: flex; gap: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
@@ -79,9 +82,9 @@
   <img src="icon/wokwi.jpg" alt="Wokwi" height="40"/>
 </div>
 
-<h3 style="color: #FFEB95; font-size: 2rem; ">
+<h2 style="color: #FFEB95; font-size: 2rem; ">
   Libraries:
-</h3>
+</h2>
 <div align="left" style="display: flex; gap: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
@@ -95,7 +98,7 @@
 
 ---
 
-### GitHub Stats:
+## 📊 GitHub Stats:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=IronWolf437&theme=nightowl&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" width="450" height="200" style="border-radius: 8px;"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IronWolf437&theme=nightowl&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" width="400" height="200" style="border-radius: 8px;"/>
