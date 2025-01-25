@@ -21,7 +21,7 @@
   I’m constantly learning and excited to share my experiences. Feel free to explore my repositories or reach out if you'd like to collaborate!
 </p>
 
-<h2 style="color: #FFEB95; font-size: 2rem; ">
+<h2 style="color: #FFEB95; font-size: 2rem;">
   Connect with me:
 </h2>
 <div align="center" style="display: flex; justify-content: center; gap: 15px; padding-bottom: 20px;">
@@ -100,7 +100,7 @@
 
 ## 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IronWolf437&theme=nightowl&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" width="450" height="200" style="border-radius: 8px;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=IronWolf437&theme=nightowl&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" width="400" height="200" style="border-radius: 8px;"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IronWolf437&theme=nightowl&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" width="400" height="200" style="border-radius: 8px;"/>
 </div>
   <!-- الصورة المتحركة -->
