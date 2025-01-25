@@ -24,7 +24,7 @@
 <h2 style="color: #FFEB95; font-size: 2rem;">
   Connect with me:
 </h2>
-<div align="center" style="display: flex; justify-content: center; gap: 15px; padding-bottom: 20px;">
+<div style="display: flex; gap: 15px; padding-bottom: 20px;">
   <a href='mailto:woiron437@gmail.com'>
     <img src="icon/gmail.png" alt="Gmail" width="50" height="40">
   </a>
