@@ -5,7 +5,7 @@
 </h1>
 
 <h2 align="center" style="color: #7FDBCA; font-family: 'Teko', monospace; font-size: 2.3rem;">
-  Junior Electronics & Communications Engineering Student
+  Electronics & Communications Engineering Student | AI & ML Enthusiast
 </h2>
 
 <div align="center">
@@ -15,10 +15,10 @@
 <img align="right" alt="coding" width="400" src="fire.gif">
 
 <p>
-  I am passionate about hardware and software development, and have hands-on experience in Arduino, Python, and web development (HTML and CSS) yet I am still a beginner. I have worked on several projects including the Iron Man portfolio site, an Ohm color code calculator app, and small Python projects. I have also explored AI and machine learning through projects such as face recognition and fire detection model In fire alarm systems is (under development) and deep learning models on Kaggle.
+  I am passionate about hardware and software development, with hands-on experience in Arduino, Python, and basic web development (HTML & CSS). I have worked on several projects including the Iron Man portfolio site, an Ohm color code calculator app, and small Python projects. I have also explored AI and machine learning through projects such as face recognition, a fire detection model for fire alarm systems (currently under development), and deep learning models on Kaggle.
 </p>
 <p>
-  I’m constantly learning and excited to share my experiences. Feel free to explore my repositories or reach out if you'd like to collaborate!
+  I’m constantly learning and excited to share my experiences. Feel free to explore my repositories, and don’t hesitate to reach out for collaboration!
 </p>
 
 <h2 style="color: #FFEB95; font-size: 2rem;">
@@ -48,23 +48,21 @@
 ---
 
 <h2 style="color: #FFEB95; font-size: 2rem; ">
-  🌱 I'm currently learning:
+  🌱 I'm currently working on / learning:
 </h2>
 <ul style="font-family: 'Verdana', sans-serif; font-size: 1.2rem; color: #fff; margin-left: 20px;">
-  <li>Working on small Python projects</li>
-  <li>Learning the Flet library for developing graphical interfaces</li>
-  <li>Working on Arduino projects</li>
-  <li>Learning about large language models (LLMs)</li>
-  <li>Small AI projects</li>
+  <li>Exploring advanced image annotation techniques for AI models.</li>
+  <li>Expanding into Raspberry Pi projects and embedded AI applications.</li>
+  <li>Developing an AI-integrated fire alarm system (Computer Vision + IoT).</li>
+  <li>Experimenting with large language models (LLMs) and their applications.</li>
 </ul>
 
 <h2 style="color: #FFEB95; font-size: 2rem; ">
   🔭 I'm planning:
 </h2>
 <ul style="font-family: 'Verdana', sans-serif; font-size: 1.2rem; color: #fff; margin-left: 20px;">
-  <li>YouTube channel for explaining different hacks and sharing my learning journey</li>
-  <li>Experience working on Raspberry Pi</li>
-  <li>AI assistant</li>
+  <li>YouTube channel to share coding, AI, and electronics projects.</li>
+  <li>Building a personal AI assistant (Jarvis-inspired).</li>
 </ul>
 
 ---
@@ -92,7 +90,7 @@
   <img src="icon/keras.png" alt="Keras" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" height="40"/>
-  <img src="icon/ultralytics.png" alt="Flet" height="40"/>
+  <img src="icon/ultralytics.png" alt="Ultralytics" height="40"/>
   <img src="icon/customtkinter.png" alt="Custom Tkinter" height="40"/>
   <img src="icon/flet.png" alt="Flet" height="40"/>
 </div>
