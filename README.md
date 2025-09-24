@@ -15,7 +15,7 @@
 <img align="right" alt="coding" width="400" src="fire.gif">
 
 <p>
-  I am passionate about hardware and software development, and have hands-on experience in Arduino, Python, and web development (HTML and CSS) yet I am still a beginner. I have worked on several projects including the Iron Man portfolio site, an Ohm color code calculator app, and small Python projects. I have also explored AI and machine learning through projects such as face recognition and deep learning models on Kaggle.
+  I am passionate about hardware and software development, and have hands-on experience in Arduino, Python, and web development (HTML and CSS) yet I am still a beginner. I have worked on several projects including the Iron Man portfolio site, an Ohm color code calculator app, and small Python projects. I have also explored AI and machine learning through projects such as face recognition and fire detection model In fire alarm systems is (under development) and deep learning models on Kaggle.
 </p>
 <p>
   I’m constantly learning and excited to share my experiences. Feel free to explore my repositories or reach out if you'd like to collaborate!
@@ -92,6 +92,7 @@
   <img src="icon/keras.png" alt="Keras" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" height="40"/>
+  <img src="icon/ultralytics.png" alt="Flet" height="40"/>
   <img src="icon/customtkinter.png" alt="Custom Tkinter" height="40"/>
   <img src="icon/flet.png" alt="Flet" height="40"/>
 </div>
