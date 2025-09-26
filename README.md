@@ -98,9 +98,8 @@
 ---
 
 ## 📊 GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IronWolf437&theme=nightowl&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" width="400" height="200" style="border-radius: 8px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IronWolf437&theme=nightowl&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" width="400" height="200" style="border-radius: 8px;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ironwolf437&theme=nightowl&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" width="400" height="200" style="border-radius: 8px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ironwolf437&theme=nightowl&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" width="400" height="200" style="border-radius: 8px;"/>
 </div>
   <!-- الصورة المتحركة -->
 <img src="night.gif" alt="Jupyter Notebook" width="961" height="450"/>
