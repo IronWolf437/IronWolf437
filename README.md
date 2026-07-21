@@ -21,14 +21,13 @@
 - [🌿 **Smart Greenhouse (Graduation Project)**](https://github.com/IronWolf437/Smart-Greenhouse)
 - [🔥 **Fire Detection System**](https://www.kaggle.com/code/ironwolf437/fire-detection-yolov11)
 - [⚡ **Ohm-App**](https://github.com/IronWolf437/ohm-app)
-- [🌐 **Iron Man Website**](https://github.com/IronWolf437/Iron-Man-website)
 
 <br>
 
 <h2 align="left">Languages:</h2>
 <img src="https://skillicons.dev/icons?i=c,cpp,html,css,python&perline=5" />
 
-<h2 align="left">Library:</h2>
+<h2 align="left">Libraries:</h2>
 <p align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40" style="background-color: #242938FF; border-radius: 10px; padding: 6px; margin: 2px; vertical-align: middle;" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" style="background-color: #242938FF; border-radius: 10px; padding: 6px; margin: 2px; vertical-align: middle;" />
@@ -39,7 +38,7 @@
 </p>
 
 
-<h2 align="left">Tool & hardware:</h2>
+<h2 align="left">Tools & hardware:</h2>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=ubuntu,vscode,arduino,raspberrypi&perline=5" />
   <img src="https://miro.medium.com/0*v9HoBe1g2EZ8jOPp.png" width="50" height="40" style="background-color: #242938FF; border-radius: 10px; padding: 6px; margin: 2px; vertical-align: middle;" />
