@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi, I'm Iron Wolf</h1>
-<h3 align="center">Electronics & Communications Engineer | Edge AI & Embedded Systems Developer</h3>
+<h3 align="center">Electronics & Communications Engineer Graduate | Edge AI & Embedded Systems Developer</h3>
 
 <br>
 
