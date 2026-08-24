@@ -40,7 +40,7 @@
 
 <h2 align="left">Tools & hardware:</h2>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ubuntu,vscode,arduino,raspberrypi&perline=5" />
+  <img src="https://skillicons.dev/icons?i=ubuntu,arch,git,vscode,arduino,raspberrypi&perline=6" />
   <img src="https://miro.medium.com/0*v9HoBe1g2EZ8jOPp.png" width="50" height="40" style="background-color: #242938FF; border-radius: 10px; padding: 6px; margin: 2px; vertical-align: middle;" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/960px-New_Power_BI_Logo.svg.png?_=20210102182532" width="40" height="40" style="background-color: #242938FF; border-radius: 10px; padding: 6px; margin: 2px; vertical-align: middle;" />
 </p>
